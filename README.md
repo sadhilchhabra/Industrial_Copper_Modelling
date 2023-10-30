@@ -4,8 +4,8 @@
 
 **Domain** : Manufacturing
 
-<!--- ### Link : <a href="https://www.linkedin.com/posts/activity-7115201526091907072-nXMn?utm_source=share&utm_medium=member_desktop">LinkedIn Post / Working Model Video</a>
-<br/> --->
+### Link : <a href="https://www.linkedin.com/posts/activity-7124770125538357248-6FxL?utm_source=share&utm_medium=member_desktop">LinkedIn Post / Working Model Video</a>
+<br/>
 
 ## Prerequisites
 1. **Python** -- Programming Language
